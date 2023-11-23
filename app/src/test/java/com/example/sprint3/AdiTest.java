@@ -1,10 +1,10 @@
 package com.example.sprint3;
 
-import com.example.sprint1.Models.Enemy;
-import com.example.sprint1.Models.EnemyNecromancer;
-import com.example.sprint1.Models.EntityMovement;
-import com.example.sprint1.Models.Player;
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.Models.Enemy;
+import com.example.DungeonCrawler.Models.EnemyNecromancer;
+import com.example.DungeonCrawler.Models.EntityMovement;
+import com.example.DungeonCrawler.Models.Player;
+import com.example.DungeonCrawler.ViewModels.GameScreen;
 
 import org.junit.Test;
 import static junit.framework.TestCase.assertTrue;

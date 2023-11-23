@@ -3,7 +3,7 @@ package com.example.sprint5;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.ViewModels.GameScreen;
 
 import org.junit.Test;
 

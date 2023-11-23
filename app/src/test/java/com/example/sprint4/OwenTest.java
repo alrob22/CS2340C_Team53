@@ -4,12 +4,9 @@ import static junit.framework.TestCase.assertEquals;
 import static junit.framework.TestCase.assertNotSame;
 import static junit.framework.TestCase.assertTrue;
 
-import com.example.sprint1.Models.Enemy;
-import com.example.sprint1.Models.EnemyNecromancer;
-import com.example.sprint1.Models.EnemyPumpkin;
-import com.example.sprint1.Models.EnemySkeleton;
-import com.example.sprint1.Models.EnemySlug;
-import com.example.sprint1.R;
+import com.example.DungeonCrawler.Models.Enemy;
+import com.example.DungeonCrawler.Models.EnemyNecromancer;
+import com.example.DungeonCrawler.R;
 
 import org.junit.Test;
 

@@ -1,7 +1,6 @@
 package com.example.sprint3;
 import static junit.framework.TestCase.assertEquals;
-import com.example.sprint1.Models.Player;
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.Models.Player;
 
 import org.junit.Test;
 

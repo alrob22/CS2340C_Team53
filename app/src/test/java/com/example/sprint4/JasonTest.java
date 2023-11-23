@@ -1,16 +1,16 @@
 package com.example.sprint4;
 
 
-import static com.example.sprint1.Models.EnemyFactory.createEnemy;
+import static com.example.DungeonCrawler.Models.EnemyFactory.createEnemy;
 
 import static org.junit.Assert.assertEquals;
 
-import com.example.sprint1.Models.Enemy;
-import com.example.sprint1.Models.EnemyNecromancer;
-import com.example.sprint1.Models.EnemyPumpkin;
-import com.example.sprint1.Models.EnemySkeleton;
-import com.example.sprint1.Models.EnemySlug;
-import com.example.sprint1.R;
+import com.example.DungeonCrawler.Models.Enemy;
+import com.example.DungeonCrawler.Models.EnemyNecromancer;
+import com.example.DungeonCrawler.Models.EnemyPumpkin;
+import com.example.DungeonCrawler.Models.EnemySkeleton;
+import com.example.DungeonCrawler.Models.EnemySlug;
+import com.example.DungeonCrawler.R;
 
 import org.junit.Test;
 

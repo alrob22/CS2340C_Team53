@@ -1,20 +1,16 @@
 package com.example.sprint4;
 
-import static com.example.sprint1.Models.EnemyFactory.createEnemy;
+import static com.example.DungeonCrawler.Models.EnemyFactory.createEnemy;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-import android.widget.ImageView;
-
-import com.example.sprint1.Models.Collision;
-import com.example.sprint1.Models.Enemy;
-import com.example.sprint1.Models.Player;
-import com.example.sprint1.R;
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.Models.Collision;
+import com.example.DungeonCrawler.Models.Enemy;
+import com.example.DungeonCrawler.Models.Player;
+import com.example.DungeonCrawler.R;
 
 import org.junit.Test;
-import org.junit.Assert.*;
 
 public class AdiTest {
     @Test

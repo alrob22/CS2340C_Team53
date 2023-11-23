@@ -1,15 +1,15 @@
 package com.example.sprint5;
 
-import static com.example.sprint1.Models.EnemyFactory.createEnemy;
+import static com.example.DungeonCrawler.Models.EnemyFactory.createEnemy;
 import static junit.framework.TestCase.assertTrue;
 
-import com.example.sprint1.Models.Collision;
-import com.example.sprint1.Models.Enemy;
-import com.example.sprint1.Models.EnemyNecromancer;
-import com.example.sprint1.Models.EnemyPumpkin;
-import com.example.sprint1.Models.EnemySkeleton;
-import com.example.sprint1.Models.EnemySlug;
-import com.example.sprint1.Models.Player;
+import com.example.DungeonCrawler.Models.Collision;
+import com.example.DungeonCrawler.Models.Enemy;
+import com.example.DungeonCrawler.Models.EnemyNecromancer;
+import com.example.DungeonCrawler.Models.EnemyPumpkin;
+import com.example.DungeonCrawler.Models.EnemySkeleton;
+import com.example.DungeonCrawler.Models.EnemySlug;
+import com.example.DungeonCrawler.Models.Player;
 
 import org.junit.Assert;
 import org.junit.Test;

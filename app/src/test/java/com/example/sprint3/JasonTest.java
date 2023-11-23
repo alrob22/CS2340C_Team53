@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.ViewModels.GameScreen;
 
 
 public class JasonTest {

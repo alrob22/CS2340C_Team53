@@ -4,12 +4,7 @@ import static junit.framework.TestCase.assertEquals;
 import static junit.framework.TestCase.assertFalse;
 import static junit.framework.TestCase.assertTrue;
 
-import android.widget.ImageView;
-
-import com.example.sprint1.Models.Player;
-import com.example.sprint1.Models.Room;
-import com.example.sprint1.R;
-import com.example.sprint1.ViewModels.GameScreen;
+import com.example.DungeonCrawler.R;
 
 import org.junit.Test;
 

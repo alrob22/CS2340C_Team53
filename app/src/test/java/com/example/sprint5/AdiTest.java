@@ -2,12 +2,12 @@ package com.example.sprint5;
 
 import static junit.framework.TestCase.assertTrue;
 
-import com.example.sprint1.Models.Collision;
+import com.example.DungeonCrawler.Models.Collision;
 
-import com.example.sprint1.Models.HealthPowerUp;
-import com.example.sprint1.Models.Player;
-import com.example.sprint1.Models.PowerUpDecorator;
-import com.example.sprint1.Models.SpeedPowerUp;
+import com.example.DungeonCrawler.Models.HealthPowerUp;
+import com.example.DungeonCrawler.Models.Player;
+import com.example.DungeonCrawler.Models.PowerUpDecorator;
+import com.example.DungeonCrawler.Models.SpeedPowerUp;
 
 import org.junit.Test;
 
